@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1696975321 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\cargarcadena.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	"cargarCadena.h"
+
+1696975360 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\cargarcadena.h
+	<clocale>
+
+1696982309 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\main.cpp
+	<iostream>
+	<clocale>
+	"video.h"
+	"ArchivoVideo.h"
+
+1696985675 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\video.h
+	<clocale>
+	<vector>
+	<string>
+	"cargarCadena.h"
+
+1696985665 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\video.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<clocale>
+	<vector>
+	<string>
+	"video.h"
+
+1696982890 c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\include\archivovideo.h
+	"video.h"
+
+1696988216 source:c:\francisco universidad\2023\laboratorio 2\git hub angel 30-05-2023\proyectos_prueba\prueba2_con_todos_los_file_enun_directorio\version2\src\archivovideo.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<vector>
+	<string>
+	"ArchivoVideo.h"
+	"video.h"
+
